@@ -1,3 +1,6 @@
+# Developed by GH0STH4CKER
+# Got idea from Fire-Phoenix-SL/Phishing-url-mask
+
 import requests , sys , time , os , socket
 from bs4 import BeautifulSoup as bSoup 
 from colorama import init , Fore
