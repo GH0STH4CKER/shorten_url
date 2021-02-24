@@ -1,6 +1,6 @@
 <h2> Python program to shorten your malicious/phishing URLs (masking them) </h2>
-
-# Termux/Linux Users
+</br>
+<h3> Termux/Linux Users </h3>
 
 ```
 git clone https://github.com/GH0STH4CKER/shorten_url.git
@@ -9,7 +9,7 @@ cd shorten_url
 python3 shortenurl.py
 ```
 
-# PC Users 
+<h3> PC Users </h3>
 
 Use <b>shortenurlpc.py</b> file
 
