@@ -11,6 +11,7 @@ python3 shortenurl.py
 
 <h3> PC Users </h3>
 
+Need python3 minimum
 Use <b>shortenurlpc.py</b> file
 
 <br>
